@@ -1,0 +1,6 @@
+ESP8266 NOT WORKING.___________________________________________
+
+There are several reasons why your ESP8266 is not working, like maybe your code is not according to the current frmware installed in your ESP8266, so the only thing in this
+case you have to do is that update firmware or the code, second thing that can be the cause is that you've already provided above 3.6 volts
+to your ESP, believe me above that voltage will roast your WiFi module. Check the connection settings also, maybe the connecions are not tight
+or maybe they are setuped wrong. If even after this the ESP8266 is not working, you can also try ethernet shield compatible to your board
