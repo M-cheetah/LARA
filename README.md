@@ -1,4 +1,6 @@
-# Flood-alerting
+# LARA
+*Level-Acknowledging-&-Realtime-Alerting*
+
 An IoT solution for flood alerting and prediction
 
 1. Clone the repository using `git clone git@github.com:PSYCHOBITx/Flood-alerting.git`
