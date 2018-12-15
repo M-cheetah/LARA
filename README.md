@@ -1,5 +1,5 @@
 # LARA
-*Level-Acknowledging-&-Realtime-Alerting*
+## *Level-Acknowledging-&-Realtime-Alerting*
 
 An IoT solution for flood alerting and prediction
 
