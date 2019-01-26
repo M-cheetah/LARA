@@ -1,4 +1,4 @@
-created_at,entry_id,field1,field2,field3,field4
+created_at,entry_id,field1,LEVEL,RATE,field4
 2018-07-20 09:56:51 UTC,1,14,2,5,-4
 2018-07-20 09:57:25 UTC,2,23,9,7,-6
 2018-07-20 09:57:58 UTC,3,7,-16,9,-8
